@@ -1,29 +1,43 @@
 # Hi there, I'm Gianluca!
 
-I am a **Computer Science student** at the **University of Milano-Bicocca**, currently focusing on software development, data integration, and mobile applications.
+I am an **MSc Advanced Computer Science student** at **Queen Mary University of London**, specializing in 3D Computer Vision, Spatial Computing, and Cloud Architectures.
 
-## 🚀 Key Projects
+---
 
-### [Project Aria Gen 1 - Research Internship]
-*Current Focus*
-- Developing Python-based tools for extracting, converting, and organizing multi-modal sensor data from **Meta Project Aria** glasses.
-- Aiming to streamline data integration for advanced Computer Vision pipelines.
+## 🔬 Research & Publications
 
-### [Orma - University Project]
+### 📄 EAGLE: Gaze-Driven Segmentation and 3D Reconstruction from Egocentric Recordings
+*Accepted at Eurographics STAG 2026 (Nov 2026)*
+- Engineered an end-to-end computer vision pipeline combining I-DT gaze tracking, SAM 2, COLMAP, and Nerfacto to reconstruct 3D semantic objects from wearable Meta Aria recordings.
+- Outperformed SA3D state-of-the-art benchmark across 13/15 DTC dataset scenes, halving Chamfer distance and achieving an 86.45% F-score and 51.84% volumetric IoU.
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 [Orma - Android Health & Habit Tracker](https://github.com/GianMalvisi)
 *Android Development*
-- Developed a native **Android application** using **Java** as part of my university coursework.
-- Focused on mobile software architecture and user interface design.
+- Co-developed a native mobile application in **Java** (Android Studio) with a 4-person team to assist pet owners in tracking health schedules.
+- Implemented clean UI components, local persistence, and coordinated release workflows using Git version control.
 
-### [InfoMovie - High School Project]
-*Web Development (Legacy)*
-- A web-based platform developed during high school using **PHP**.
-- This project represents my early foundation in web development and backend logic.
+### 🎬 [Infomovie - Movie Management Portal](https://github.com/GianMalvisi)
+*Full-Stack Web Development*
+- Architected a full-stack dynamic web application managing relational movie databases using **PHP**, **MySQL**, and **JavaScript**.
+- Designed responsive front-end interface components and implemented robust backend validation logic for database updates.
 
-## 🛠️ Skills & Tools
-- **Languages:** Python, Java, PHP, C#
-- **Technologies:** Android Development, Data Processing, Git, Computer Vision Tools
-- **Education:** University of Milano-Bicocca (Computer Science)
+---
+
+## 🛠️ Skills & Technologies
+
+- **Programming Languages:** Python, Java, C#, C++, PHP, JavaScript, SQL
+- **Frameworks & Libraries:** PyTorch, NeRFstudio, Flask, REST APIs, OpenCV, Android SDK
+- **Tools & Infrastructure:** Git, GitHub, Docker, Kubernetes, Linux/Unix, COLMAP
+- **Core Domains:** 3D Computer Vision, Egocentric Processing, Machine Learning, Cloud Architecture
+
+---
 
 ## 📬 Connect with me
-- **LinkedIn:** https://www.linkedin.com/in/gianluca-malvisi-57a304257/
-- **Location:** Milan, Italy
+
+- **LinkedIn:** [linkedin.com/in/gianluca-malvisi-57a304257](https://www.linkedin.com/in/gianluca-malvisi-57a304257/)
+- **GitHub:** [github.com/GianMalvisi](https://github.com/GianMalvisi)
+- **Location:** London, United Kingdom 🇬🇧
